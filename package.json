@@ -1,24 +1,39 @@
 {
-  "name": "mern_project1",
+  "name": "product-management-system",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Full-Stack Enterprise Product & Inventory Management System (ERP) built with React 19, TypeScript, Tailwind CSS v4, Node.js, Express, and MongoDB.",
+  "main": "server/src/server.js",
   "scripts": {
     "client": "cd client && npm run dev",
     "server": "cd server && npm run dev",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "cd client && npm run build",
+    "seed": "cd server && npm run seed:demo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peymanbabayev/mern_project1.git"
+    "url": "git+https://github.com/peymanbabayev/product-management-system.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "mern",
+    "inventory-management",
+    "product-management",
+    "erp",
+    "react19",
+    "typescript",
+    "tailwindcss",
+    "nodejs",
+    "express",
+    "mongodb",
+    "tanstack-query",
+    "vite"
+  ],
+  "author": "Peyman Babayev",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peymanbabayev/mern_project1/issues"
+    "url": "https://github.com/peymanbabayev/product-management-system/issues"
   },
-  "homepage": "https://github.com/peymanbabayev/mern_project1#readme",
+  "homepage": "https://mern-project1front.vercel.app/",
   "devDependencies": {
     "concurrently": "^9.2.1"
   }
