@@ -11,7 +11,6 @@ An enterprise-grade, full-stack **Product & Inventory Management ERP System** bu
 [![Express 5](https://img.shields.io/badge/Express-5.2-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.1-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 [Live Application](https://mern-project1front.vercel.app/) • [Report Bug](https://github.com/peymanbabayev/product-management-system/issues) • [Request Feature](https://github.com/peymanbabayev/product-management-system/issues)
 
@@ -36,7 +35,6 @@ An enterprise-grade, full-stack **Product & Inventory Management ERP System** bu
 - [Security & Authentication](#-security--authentication)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Author](#-author)
 
 ---
@@ -353,12 +351,6 @@ Contributions, issues, and feature requests are welcome!
 5. Open a Pull Request
 
 Please review our [Contributing Guidelines](CONTRIBUTING.md) for full details.
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ---
 
